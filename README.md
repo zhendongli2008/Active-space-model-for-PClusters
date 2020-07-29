@@ -1,4 +1,4 @@
-# Active space model for PClusters
+# Active space model for P-clusters in nitrogenase
 
 For details, see supplementary materials in the following reference:
 
